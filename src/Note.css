@@ -9,8 +9,9 @@
     border: solid #363636 2px;
     background-color: white;
     border-radius: 5px;
-    padding: 1rem;
+    padding: 1.2rem;
     margin: 1rem;
     position: absolute;
     text-align: left;
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.3);
 }

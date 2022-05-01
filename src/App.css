@@ -43,8 +43,12 @@ form input {
   display: block;
   text-align: center;
   font-size: 18px;
-  color: rgb(188, 188, 188);
+  color: rgb(54, 54, 54);
   font-weight: 300;
+}
+
+::placeholder {
+  opacity: 45%;
 }
 
 form button {
